@@ -3,11 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Описание проекта
+Кнопки
 ===================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Оглавление:
+Как подключить
+-----------
 
-* описание
+картинка
+
+Как настроить
+-----------
+ 
+картинка

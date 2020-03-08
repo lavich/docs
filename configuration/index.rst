@@ -1,21 +1,18 @@
-.. freejoy documentation master file, created by
-   sphinx-quickstart on Sat Mar  7 14:26:05 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Конфигурация
+Конфигуратор
 ===================================
 
+Настройка микроконтроллера происходит в конфигураторе
+
+.. image:: ../../_static/images/configurator.jpg
+
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Оглавление:
+   :maxdepth: 1
 
-   button
-
-
-* ось
-* энкодер
-* матрица
-* регистры
-* хатки
-* светодиоды
+   pins
+   buttons
+   axes
+   hats
+   encoders
+   matrix
+   leds

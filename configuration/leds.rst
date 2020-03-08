@@ -3,13 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Оглавление
+Светодиоды
 ===================================
 
-.. toctree::
-   :maxdepth: 1
+Как подключить
+-----------
 
-   about/index
-   getting-started/index
-   configuration/index
-   cookbook/index
+картинка
+
+Как настроить
+-----------
+ 
+картинка
